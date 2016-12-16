@@ -15,5 +15,6 @@ Pod::Spec.new do |s|
   	:branch => 'master'
   }
 
+  s.homepage = "https://github.com/huangxinping/XPRefresh.git"
   s.source_files  =  "XPRefresh/*.{h,swift}"
 end
